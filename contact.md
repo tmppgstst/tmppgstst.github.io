@@ -3,7 +3,7 @@ layout: default
 title: contact
 ---
 
-$initials @ $thisdomain
+Email: $initials @ $thisdomain
 
-[key.asc](Public key -- 0x23FAF714EE7CCD36)
+Public key: [0x23FAF714EE7CCD36](key.asc)
 
