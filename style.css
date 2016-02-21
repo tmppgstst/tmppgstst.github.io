@@ -30,8 +30,9 @@ a, a:visited, a:hover {
     color: #ba3925;
 }
 
-#nav li {
+nav a {
     display: inline-block;
+    width: 100px;
 }
 
 #content h1 {
