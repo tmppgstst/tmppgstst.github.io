@@ -56,3 +56,10 @@ a, a:visited, a:hover {
     clear: left;
 }
 
+@media screen and (min-width: 64em) {
+    body {
+        padding-left: 10em;
+        padding-right: 10em;
+    }
+}
+
