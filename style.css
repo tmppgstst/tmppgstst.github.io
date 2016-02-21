@@ -24,14 +24,10 @@ header {
     border-bottom: 1px solid #ddddd8;
 }
 
-a, a:visited {
+a, a:visited, a:hover {
     font-size: 1em;
     text-decoration: none;
-    color: #2156a5;
-}
-
-a:hover {
-    color: #1d4b8f;
+    color: #ba3925;
 }
 
 #content h1, #content h2 {
