@@ -30,6 +30,10 @@ a, a:visited, a:hover {
     color: #ba3925;
 }
 
+#nav li {
+    display: inline-block;
+}
+
 #content h1 {
     float: left;
     font-size: 1.5em;
