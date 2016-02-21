@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advisories
+title: Advisories
 ---
 
 # m0000
