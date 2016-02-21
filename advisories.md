@@ -4,7 +4,7 @@ title: Advisories
 ---
 
 CVE-2015-7505: libnsgif: stack overflow
----------------------------------------
+=======================================
 [Bugtraq](http://seclists.org/bugtraq/2015/Dec/83) --
 [Full disclosure](http://seclists.org/fulldisclosure/2015/Dec/70) --
 [oss-security](http://www.openwall.com/lists/oss-security/2015/12/16/5) --

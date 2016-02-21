@@ -21,7 +21,7 @@ header h1 {
 header {
     margin-top: 2.5em;
     text-align: center;
-    border-bottom: 1px solid #ededed;
+    border-bottom: 1px solid #ddddd8;
 }
 
 a, a:visited {
@@ -34,14 +34,19 @@ a:hover {
     color: #1d4b8f;
 }
 
+h1, h2 {
+    float: left;
+    font-weight: 300;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ddddd8;
+}
 
 
 
 
 
 
-
-
+/*
 h1 {
 }
 
@@ -79,3 +84,4 @@ h1 {
 nav a, nav a:visited, nav a:hover {
     color: #ba3925;
 }
+    */
