@@ -1,6 +1,5 @@
 /*
- * More-or-less the default asciidoctor stylesheet.
- * MIT license, http://asciidoctor.org
+ * Highly influenced by http://asciidoctor.org (MIT)
  */
 body {
     font-family: Helvetica, sans-serif;
@@ -25,15 +24,8 @@ header {
     border-bottom: 1px solid #ededed;
 }
 
-
-
-
-
-
-
-
-
 a, a:visited {
+    font-size: 1em;
     text-decoration: none;
     color: #2156a5;
 }
@@ -41,6 +33,14 @@ a, a:visited {
 a:hover {
     color: #1d4b8f;
 }
+
+
+
+
+
+
+
+
 
 h1 {
 }
