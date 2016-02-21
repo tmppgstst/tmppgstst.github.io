@@ -30,6 +30,10 @@ a, a:visited, a:hover {
     color: #ba3925;
 }
 
+h1 {
+    margin-bottom: 5px;
+}
+
 #content h1, #content h2 {
     float: left;
     font-weight: 300;
@@ -74,6 +78,5 @@ p {
 
 
 h1 {
-    margin-bottom: 5px;
 }
 */
