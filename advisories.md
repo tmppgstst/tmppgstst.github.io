@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advisories
+title: advisories
 ---
 
 CVE-2015-7505: libnsgif: stack overflow
