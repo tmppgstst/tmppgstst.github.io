@@ -3,7 +3,7 @@ layout: default
 title: advisories
 ---
 
-php: Stack overflow when decompressing tar archives
+php: stack overflow when decompressing tar archives
 ===================================================
 * [php](https://bugs.php.net/bug.php?id=71488)
 * [github](https://github.com/dyntopia/advisories/blob/master/006-php.org)
