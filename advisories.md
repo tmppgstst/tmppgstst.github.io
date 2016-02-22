@@ -5,7 +5,7 @@ title: advisories
 
 php: Stack overflow when decompressing tar archives
 ===================================================
-* [PHP](https://bugs.php.net/bug.php?id=71488)
+* [php](https://bugs.php.net/bug.php?id=71488)
 * [github](https://github.com/dyntopia/advisories/blob/master/006-php.org)
 
 
