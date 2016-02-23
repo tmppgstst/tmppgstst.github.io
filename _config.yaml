@@ -2,6 +2,9 @@ name: Hans Jerry Illikainen
 
 highlighter: rouge
 
+exclude:
+    - CNAME
+
 gems:
     - jekyll-feed
 
