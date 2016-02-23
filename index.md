@@ -61,3 +61,8 @@ CDON.se: account hijack
 =======================
 * [Computer Sweden](http://computersweden.idg.se/2.2683/1.646544/cdon-kapa)
 * [Techsite (broken English)](http://www.techsite.io/p/215563)
+
+
+CVE-2007-5184: smbftpd: format string vulnerability
+===================================================
+* [bugtraq](http://seclists.org/bugtraq/2007/Oct/9)
